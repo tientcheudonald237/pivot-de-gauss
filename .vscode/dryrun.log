@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/geekers-donald/Bureau/DONALD/Ubuntu/structure/dr_tp/tpsfinaux/pivot_gauss'
+gcc -o dev main.c fonction.c
+make: Leaving directory '/home/geekers-donald/Bureau/DONALD/Ubuntu/structure/dr_tp/tpsfinaux/pivot_gauss'
+ 
